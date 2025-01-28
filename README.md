@@ -4,4 +4,4 @@ Website made for students, by students, where you can buy items by other student
 \
 Joint venture by two students of the Indian Institute of Information Technology Allahabad.\
 IIT2024043\
-IIT2024076\
+IIT2024076
